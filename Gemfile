@@ -10,7 +10,7 @@ end
 
 # use postgres when in production (which heroku uses)
 group :production do
-	gem 'pg'
+	gem 'mysql2'
 end
 
 # Use SCSS for stylesheets
