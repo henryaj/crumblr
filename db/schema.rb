@@ -11,7 +11,11 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140114214750) do
+ActiveRecord::Schema.define(version: 20140119194450) do
+
+  create_table "hearts", force: true do |t|
+    t.string "post_id"
+  end
 
   create_table "posts", force: true do |t|
     t.string   "title"

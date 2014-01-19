@@ -1,5 +1,7 @@
-class Post < ActiveRecord::Base
+class Heart < ActiveRecord::Base
 # That bit after the caret above means Post inherits
 # properties from ActiveRecord::Base
-	has_many :hearts
+	belongs_to :post
+	validates :post_id, presence: true
+
 end
