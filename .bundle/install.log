@@ -1,0 +1,155 @@
+# Logfile created on 2014-01-19 20:28:06 +0000 by logger.rb/36483
+I, [2014-01-19T20:28:06.799112 #93352]  INFO -- : 0:  rake (10.1.1) from /Library/Ruby/Gems/2.0.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-19T20:28:06.836074 #93352]  INFO -- : 0:  i18n (0.6.9) from /Library/Ruby/Gems/2.0.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-19T20:28:06.836570 #93352]  INFO -- : 0:  minitest (4.7.5) from /Library/Ruby/Gems/2.0.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-19T20:28:06.837100 #93352]  INFO -- : 0:  multi_json (1.8.2) from /Library/Ruby/Gems/2.0.0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-19T20:28:06.837574 #93352]  INFO -- : 0:  atomic (1.1.14) from /Library/Ruby/Gems/2.0.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-19T20:28:06.838287 #93352]  INFO -- : 0:  thread_safe (0.1.3) from /Library/Ruby/Gems/2.0.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-19T20:28:06.838848 #93352]  INFO -- : 0:  tzinfo (0.3.38) from /Library/Ruby/Gems/2.0.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-19T20:28:06.839400 #93352]  INFO -- : 0:  activesupport (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-19T20:28:06.839879 #93352]  INFO -- : 0:  builder (3.1.4) from /Library/Ruby/Gems/2.0.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-19T20:28:06.840335 #93352]  INFO -- : 0:  erubis (2.7.0) from /Library/Ruby/Gems/2.0.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-19T20:28:06.840807 #93352]  INFO -- : 0:  rack (1.5.2) from /Library/Ruby/Gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-19T20:28:06.841384 #93352]  INFO -- : 0:  rack-test (0.6.2) from /Library/Ruby/Gems/2.0.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-19T20:28:06.841806 #93352]  INFO -- : 0:  actionpack (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-19T20:28:06.842251 #93352]  INFO -- : 0:  mime-types (1.25.1) from /Library/Ruby/Gems/2.0.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-19T20:28:06.842546 #93352]  INFO -- : 0:  polyglot (0.3.3) from /Library/Ruby/Gems/2.0.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-19T20:28:06.842812 #93352]  INFO -- : 0:  treetop (1.4.15) from /Library/Ruby/Gems/2.0.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-19T20:28:06.843078 #93352]  INFO -- : 0:  mail (2.5.4) from /Library/Ruby/Gems/2.0.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-19T20:28:06.843334 #93352]  INFO -- : 0:  actionmailer (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-19T20:28:06.843586 #93352]  INFO -- : 0:  activemodel (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-19T20:28:06.843910 #93352]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Library/Ruby/Gems/2.0.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-19T20:28:06.844323 #93352]  INFO -- : 0:  arel (4.0.1) from /Library/Ruby/Gems/2.0.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-19T20:28:06.844723 #93352]  INFO -- : 0:  activerecord (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-19T20:28:06.845555 #93352]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-01-19T20:28:06.845931 #93352]  INFO -- : 0:  coffee-script-source (1.6.3) from /Library/Ruby/Gems/2.0.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-19T20:28:06.846293 #93352]  INFO -- : 0:  execjs (2.0.2) from /Library/Ruby/Gems/2.0.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-19T20:28:06.846653 #93352]  INFO -- : 0:  coffee-script (2.2.0) from /Library/Ruby/Gems/2.0.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-19T20:28:06.847067 #93352]  INFO -- : 0:  thor (0.18.1) from /Library/Ruby/Gems/2.0.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-19T20:28:06.847459 #93352]  INFO -- : 0:  railties (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-19T20:28:06.847849 #93352]  INFO -- : 0:  coffee-rails (4.0.1) from /Library/Ruby/Gems/2.0.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-19T20:28:06.848676 #93352]  INFO -- : 0:  hike (1.2.3) from /Library/Ruby/Gems/2.0.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-19T20:28:06.849109 #93352]  INFO -- : 0:  jbuilder (1.5.3) from /Library/Ruby/Gems/2.0.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-19T20:28:06.849538 #93352]  INFO -- : 0:  jquery-rails (3.0.4) from /Library/Ruby/Gems/2.0.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-19T20:28:06.850021 #93352]  INFO -- : 0:  json (1.8.1) from /Library/Ruby/Gems/2.0.0/specifications/json-1.8.1.gemspec
+E, [2014-01-19T20:28:29.167786 #93352] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/henryaj/.bundler/tmp/93352/gems/pg-0.17.1 for inspection.
+Results logged to /Users/henryaj/.bundler/tmp/93352/extensions/universal-darwin-13/2.0.0/pg-0.17.1/gem_make.out
+
+/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Library/Ruby/Site/2.0.0/rubygems/installer.rb:677:in `build_extensions'  \n/Library/Ruby/Site/2.0.0/rubygems/installer.rb:232:in `install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/bin/bundle:23:in `load'  \n/usr/bin/bundle:23:in `<main>'
+I, [2014-01-19T20:29:45.479909 #93430]  INFO -- : 0:  rake (10.1.1) from /Library/Ruby/Gems/2.0.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-19T20:29:45.481482 #93430]  INFO -- : 0:  i18n (0.6.9) from /Library/Ruby/Gems/2.0.0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-19T20:29:45.481989 #93430]  INFO -- : 0:  minitest (4.7.5) from /Library/Ruby/Gems/2.0.0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-19T20:29:45.482397 #93430]  INFO -- : 0:  multi_json (1.8.2) from /Library/Ruby/Gems/2.0.0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-19T20:29:45.482688 #93430]  INFO -- : 0:  atomic (1.1.14) from /Library/Ruby/Gems/2.0.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-19T20:29:45.483060 #93430]  INFO -- : 0:  thread_safe (0.1.3) from /Library/Ruby/Gems/2.0.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-19T20:29:45.483380 #93430]  INFO -- : 0:  tzinfo (0.3.38) from /Library/Ruby/Gems/2.0.0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-19T20:29:45.483704 #93430]  INFO -- : 0:  activesupport (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-19T20:29:45.484050 #93430]  INFO -- : 0:  builder (3.1.4) from /Library/Ruby/Gems/2.0.0/specifications/builder-3.1.4.gemspec
+I, [2014-01-19T20:29:45.484353 #93430]  INFO -- : 0:  erubis (2.7.0) from /Library/Ruby/Gems/2.0.0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-19T20:29:45.484668 #93430]  INFO -- : 0:  rack (1.5.2) from /Library/Ruby/Gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-19T20:29:45.484968 #93430]  INFO -- : 0:  rack-test (0.6.2) from /Library/Ruby/Gems/2.0.0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-19T20:29:45.485387 #93430]  INFO -- : 0:  actionpack (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-19T20:29:45.485847 #93430]  INFO -- : 0:  mime-types (1.25.1) from /Library/Ruby/Gems/2.0.0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-19T20:29:45.486303 #93430]  INFO -- : 0:  polyglot (0.3.3) from /Library/Ruby/Gems/2.0.0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-19T20:29:45.486819 #93430]  INFO -- : 0:  treetop (1.4.15) from /Library/Ruby/Gems/2.0.0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-19T20:29:45.487243 #93430]  INFO -- : 0:  mail (2.5.4) from /Library/Ruby/Gems/2.0.0/specifications/mail-2.5.4.gemspec
+I, [2014-01-19T20:29:45.487658 #93430]  INFO -- : 0:  actionmailer (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-19T20:29:45.487963 #93430]  INFO -- : 0:  activemodel (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-19T20:29:45.488320 #93430]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Library/Ruby/Gems/2.0.0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-19T20:29:45.488776 #93430]  INFO -- : 0:  arel (4.0.1) from /Library/Ruby/Gems/2.0.0/specifications/arel-4.0.1.gemspec
+I, [2014-01-19T20:29:45.489263 #93430]  INFO -- : 0:  activerecord (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-19T20:29:45.489668 #93430]  INFO -- : 0:  bundler (1.5.1) from /Library/Ruby/Gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-01-19T20:29:45.490096 #93430]  INFO -- : 0:  coffee-script-source (1.6.3) from /Library/Ruby/Gems/2.0.0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-19T20:29:45.490418 #93430]  INFO -- : 0:  execjs (2.0.2) from /Library/Ruby/Gems/2.0.0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-19T20:29:45.490761 #93430]  INFO -- : 0:  coffee-script (2.2.0) from /Library/Ruby/Gems/2.0.0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-19T20:29:45.491078 #93430]  INFO -- : 0:  thor (0.18.1) from /Library/Ruby/Gems/2.0.0/specifications/thor-0.18.1.gemspec
+I, [2014-01-19T20:29:45.491398 #93430]  INFO -- : 0:  railties (4.0.2) from /Library/Ruby/Gems/2.0.0/specifications/railties-4.0.2.gemspec
+I, [2014-01-19T20:29:45.491717 #93430]  INFO -- : 0:  coffee-rails (4.0.1) from /Library/Ruby/Gems/2.0.0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-19T20:29:45.492031 #93430]  INFO -- : 0:  hike (1.2.3) from /Library/Ruby/Gems/2.0.0/specifications/hike-1.2.3.gemspec
+I, [2014-01-19T20:29:45.514693 #93430]  INFO -- : 0:  jbuilder (1.5.3) from /Library/Ruby/Gems/2.0.0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-19T20:29:45.515330 #93430]  INFO -- : 0:  jquery-rails (3.0.4) from /Library/Ruby/Gems/2.0.0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-19T20:29:45.515986 #93430]  INFO -- : 0:  json (1.8.1) from /Library/Ruby/Gems/2.0.0/specifications/json-1.8.1.gemspec
+E, [2014-01-19T20:29:47.909094 #93430] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/henryaj/.bundler/tmp/93430/gems/pg-0.17.1 for inspection.
+Results logged to /Users/henryaj/.bundler/tmp/93430/extensions/universal-darwin-13/2.0.0/pg-0.17.1/gem_make.out
+
+/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/Library/Ruby/Site/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Library/Ruby/Site/2.0.0/rubygems/installer.rb:677:in `build_extensions'  \n/Library/Ruby/Site/2.0.0/rubygems/installer.rb:232:in `install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Library/Ruby/Gems/2.0.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/usr/bin/bundle:23:in `load'  \n/usr/bin/bundle:23:in `<main>'
